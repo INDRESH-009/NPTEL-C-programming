@@ -1,4 +1,4 @@
-// Input an integer and read it till -1 is reached . Then print the sum of all read numers excluding the negatuve number using while loop only
+// Input an integer and read it till -1 is reached . Then print the sum of all read numers excluding the negatuve number using while loop  only
 
 #include <stdio.h>
 int main(){
